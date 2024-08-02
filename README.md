@@ -41,11 +41,11 @@ What we add, is the Cross-Sex Schema Etiology. Put very simply, in this etiology
 Why would such a thing exist? Well it’s really not that hard to believe. Let’s take inventory of some things we can take for granted:
 
 1. **There are some intrinsically encoded aspects of self.**
- * We see this in the Somatosensory Homunculus and in the Trans-Species Concept of Self theory
+We see this in the Somatosensory Homunculus and in the Trans-Species Concept of Self theory
 2. **We have some intrinsic concept of sex.** 
- * Obviously we don’t come with a deep understanding of sex or gender, but we all seem to come pre-equipped with systems in the brain that differentially respond to males vs female stimuli (Sexual Orientation for example), implying the concept is somehow encoded from the start. We don't need to learn anything at all for our sexual-response systems to discriminate between preferred and nonpreferred sexual partners, based on sex characteristics 
+Obviously we don’t come with a deep understanding of sex or gender, but we all seem to come pre-equipped with systems in the brain that differentially respond to males vs female stimuli (Sexual Orientation for example), implying the concept is somehow encoded from the start. We don't need to learn anything at all for our sexual-response systems to discriminate between preferred and nonpreferred sexual partners, based on sex characteristics 
 3. **Evolutionarily, it is useful for social creatures to know what sex they are.**
- * As social creatures we develop social norms when in groups. Some of these social norms are gender specific, and it seems that not all of them are caused entirely directly by innate disposition differences. Humans especially are big on learning. You don’t want to learn the wrong norms, for risk of being outcast. A reflective higher order ability to tell what sex you are is good for sure, but just like in the case of sexual orientation, it’s better if it is lower order and automatic. Something that can kick in automatically at a very young age.
+As social creatures we develop social norms when in groups. Some of these social norms are gender specific, and it seems that not all of them are caused entirely directly by innate disposition differences. Humans especially are big on learning. You don’t want to learn the wrong norms, for risk of being outcast. A reflective higher order ability to tell what sex you are is good for sure, but just like in the case of sexual orientation, it’s better if it is lower order and automatic. Something that can kick in automatically at a very young age.
 
 Ok, now because we are trying to do science, we also have to attribute some observable implications to this theoretical structure. So let's do that. 
 
