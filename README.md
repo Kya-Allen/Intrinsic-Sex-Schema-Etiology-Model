@@ -1,4 +1,4 @@
-# Intrinsic-Sex-Schema-Etiology-Model
+# Cross-Sex-Schema-Etiology-Model
 This is where I will post each version of my working model for an alternative etiological theory of transsexuality
 
 # A Very Fast and Loose Explication of "Intrinsic Sex-Schema" etiological theory of transsexuality
